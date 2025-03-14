@@ -104,7 +104,7 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/ping.js",
           'id': "ping.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/owner.js",
+          'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/owner.js",
           'id': "owner.js"
       }, {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/restart.js",
@@ -577,7 +577,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("kaveesha Bot, bot started✅");
+res.send("Sula Ms Bot, bot started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
