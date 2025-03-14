@@ -35,7 +35,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = '.'
 
-const ownerNumber = ['94760663483']
+const ownerNumber = ['94774071805']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -501,14 +501,18 @@ switch (command) {
             }
 
 //================ownerreact==============
-if(senderNumber.includes("94710450435")){
+if(senderNumber.includes("94774071805")){
+if(isReact) return
+m.react("🤴")
+}
+if(senderNumber.includes("94766934612")){
 if(isReact) return
 m.react("👨‍💻")
 }
-if(senderNumber.includes("0760663483")){
-if(isReact) return
-m.react("👨‍💻")
-}
+if(senderNumber.includes("94701469704")){
+    if(isReact) return
+    m.react("👨‍💻")
+    }
        if (config.ALLWAYS_OFFLINE === "true") {
         conn.sendPresenceUpdate('unavailable'); // Sets the bot's last seen status
     }
@@ -579,4 +583,3 @@ app.listen(port, () => console.log(`Server listening on port http://localhost:${
 setTimeout(() => {
 connectToWA()
 }, 4000);  
-
