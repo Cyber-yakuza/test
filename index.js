@@ -255,7 +255,7 @@ let up = `> 🥷𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗱𝗮𝗿𝗸 𝗻�
 > 🥷ᴘᴏᴡᴇʀᴅ ʙʏ ᴄʏʙᴇʀ ʏᴀᴋᴜᴢᴀ ᴛᴇᴀᴍ⚠️`;
 
 
-conn.sendMessage(conn.user.id,{ image: { url: `https://i.ibb.co/4g2tYcsx/1387.jpg` }, caption: up })
+conn.sendMessage(conn.user.id,{ image: { url: `https://files.catbox.moe/o0cp0d.jpeg` }, caption: up })
 
 }
 })
@@ -577,7 +577,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("Sula Ms Bot, bot started✅");
+res.send("kaveesha Bot, bot started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
