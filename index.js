@@ -119,7 +119,7 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/auto.js",
           'id': "auto.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/dawnlode.js",
+          'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/dawnlode.js",
           'id': "dawnlode.js"
       }, {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/hack.js",
