@@ -95,7 +95,7 @@ conn.ev.on("connection.update", async (update) => {
         'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/alive.js",
           'id': "alive.js"
         }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/menu.js",
+          'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/menu.js",
           'id': "menu.js"
       }, {
           'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/setting.js",
