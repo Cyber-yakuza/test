@@ -155,7 +155,7 @@ conn.ev.on("connection.update", async (update) => {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/convert.js",
           'id': "convert.js"
       }, {
-          'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/download.js",
+          'url': "https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/ttdawnlod.js",
           'id': "download.js"
       }, {
           'url': "https://raw.githubusercontent.com/sulaksha49/PUKA_DA_BALANNE/refs/heads/main/ai_ballo_horen_balanne/group.js",
@@ -577,7 +577,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("Sula Ms Bot, bot started✅");
+res.send("DaekNero Bot, bot started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
