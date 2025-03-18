@@ -192,7 +192,8 @@ const {
               'id': "getpp.js"
           },{
            'url':"https://raw.githubusercontent.com/Cyber-yakuza/cmd/refs/heads/main/kaveesha/vv.js",
-           'id':"vv.js"
+           'id':"vv.js",
+          
           }, {
               'url': "𝙇𝙄𝙉𝙆🔐",
               'id': "𝙁𝙄𝙇𝙀-𝙉𝘼𝙈𝙀🌚"
