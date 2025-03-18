@@ -9,7 +9,7 @@
     "restart": "pm2 restart sulamd"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:AxellNetwork/Baileys",
+    "@whiskeysockets/baileys": "npm:lakaofc-baliyes",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.13.5",
     "pino": "^7.0.5",
